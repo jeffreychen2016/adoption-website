@@ -1,3 +1,48 @@
 body{
     background-color: blanchedalmond;
 }
+
+.margin-top{
+    margin-top: 20px;
+}
+
+#main-wrapper{
+    width: 90%;
+    margin: auto;
+}
+
+.card-header{
+    background-color:rgba(46, 44, 44, 0.082);
+    border-radius: 3px 3px 0px 0px;
+    font-size: 2em;
+    line-height: 1.5em;
+}
+
+.card-img{
+    width: 80%;
+    margin: 10px 0;
+}
+
+.trunc-text{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card-type{
+    border-radius: 0px 0px 3px 3px;
+    font-size: 2em;
+    line-height: 1.5em;
+}
+
+.cat{
+    background-color:#5bc0de;
+}
+
+.dog{
+    background-color: #5cb85c;
+}
+
+.dino{
+    background-color: #f0ad4e;
+}
