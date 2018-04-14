@@ -1,1 +1,3 @@
-console.log('test');
+const data = require('./data');
+
+data();
